@@ -1,0 +1,1 @@
+add_subdirectory(strip_custom_nodes)
